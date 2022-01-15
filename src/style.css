@@ -1,0 +1,34 @@
+* {
+  font-family: helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(/Images/pattern.jpeg);
+}
+
+span.price {
+  font-weight: bold;
+  color: blue;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.section-one h2 {
+  background-color: mediumspringgreen;
+}
+
+.section-two h2 {
+  background-color: lightcoral;
+}
+
+.section-three h2 {
+  background-color: skyblue;
+}
